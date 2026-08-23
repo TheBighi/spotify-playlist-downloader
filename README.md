@@ -6,6 +6,12 @@ matching MP3 from multiple free music sources, one-click ZIP export.
 
 > For personal use only.
 
+## Images
+### Example of downloading playlist
+![Spotify 1](https://raw.githubusercontent.com/TheBighi/TheBighi/refs/heads/main/images/spotify1.png)
+### Example of human review being needed
+![Spotify 2](https://raw.githubusercontent.com/TheBighi/TheBighi/refs/heads/main/images/spotify2.png)
+
 ## Features
 
 - **Paste a Spotify playlist URL** — loads name, artwork, artists, albums, durations
